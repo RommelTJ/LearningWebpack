@@ -1,0 +1,11 @@
+{
+  "name": "learningwebpack",
+  "version": "1.0.0",
+  "description": "Version: 1.0.0 - 17 Jul 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
