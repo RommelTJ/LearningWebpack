@@ -1,6 +1,6 @@
-# Contributing to rn-tracks
+# Contributing to LearningWebpack
 
-♥ [rn-tracks](https://github.com/RommelTJ/rn-tracks) and want to get involved?
+♥ [LearningWebpack](https://github.com/RommelTJ/LearningWebpack) and want to get involved?
 Thanks! We're actively looking for folks interested in helping out and there 
 are plenty of ways you can help!
 
@@ -15,7 +15,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/RommelTJ/rn-tracks/issues) is
+The [issue tracker](https://github.com/RommelTJ/LearningWebpack/issues) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
