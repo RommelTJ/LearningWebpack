@@ -1,10 +1,10 @@
-# rn-tracks
+# LearningWebpack
 
-Version: 1.0.0 - 17 Jul 2020
+Version: 0.0.1 - 2 Sep 2020
 
 ## Description
 
-React Native + Hooks + Tracks app.
+Learning Webpack.
 
 ## Contributing
 
