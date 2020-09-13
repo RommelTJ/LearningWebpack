@@ -9,6 +9,7 @@
   "author": "Rommel Rico",
   "license": "ISC",
   "devDependencies": {
+    "babel-loader": "^8.1.0",
     "webpack": "^2.2.0-rc.0"
   }
 }
