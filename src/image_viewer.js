@@ -1,9 +1,16 @@
-import '../assets/1.jpg';
-import '../assets/2.jpg';
-import '../assets/3.jpg';
+import small1 from '../assets/1.jpg';
+import small2 from '../assets/2.jpg';
+import big3 from '../assets/3.jpg';
 import '../styles/image_viewer.css';
 
-const image = document.createElement('img');
-image.src = 'http://picsum.photos/400';
+const smallImage1 = document.createElement('img');
+smallImage1.src = small1;
+document.body.appendChild(smallImage1);
 
-document.body.appendChild(image);
+const smallImage2 = document.createElement('img');
+smallImage2.src = small2;
+document.body.appendChild(smallImage2);
+
+const bigImage = document.createElement('img');
+bigImage.src = big3;
+document.body.appendChild(bigImage);
