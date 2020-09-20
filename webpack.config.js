@@ -16,6 +16,16 @@ const config = {
       {
         use: [MiniCssExtractPlugin.loader, 'css-loader'],
         test: /\.css$/i
+      },
+      {
+        test: /\.(jpe?g|png|gif|svg)$/,
+        use: [
+          {
+            loader: 'url-loader',
+            options: { limit: 40000 }
+          },
+          'image-webpack-loader'
+        ]
       }
     ]
   },
