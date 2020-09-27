@@ -1,4 +1,4 @@
-node_modules/**/*
+*/node_modules/*
 .expo/*
 npm-debug.*
 *.jks
@@ -18,3 +18,4 @@ web-build/
 
 # Secrets
 env.js
+
