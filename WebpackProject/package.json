@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "clean": "rimraf dist",
     "build": "webpack"
   },
   "repository": "https://github.com/StephenGrider/WebpackProject",
