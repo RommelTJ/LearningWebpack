@@ -1,6 +1,6 @@
 # LearningWebpack
 
-Version: 0.0.8 - 9 Nov 2020
+Version: 1.0.0 - 9 Nov 2020
 
 ## Description
 
